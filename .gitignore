@@ -1,0 +1,3 @@
+# Ignore csvs folder and all its contents
+csvs/
+csvs/* 
